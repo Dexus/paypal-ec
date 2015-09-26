@@ -1,4 +1,4 @@
-# paypal-ec <sup>0.2.7</sup>
+# paypal-ec <sup>0.3.0</sup>
 
 A simple API wrapper for PayPal's Express Checkout.
 
@@ -20,7 +20,7 @@ Checkout `package.json` for dependencies.
 
 Install paypal-ec through npm
 
-    npm install paypal-ec
+    npm install paypal-ec2
 
 
 
@@ -28,7 +28,7 @@ Install paypal-ec through npm
 
 > Require the module before using
 
-    var PayPalEC = require( 'paypal-ec' );
+    var PayPalEC = require( 'paypal-ec2' );
 
 
 
@@ -224,7 +224,7 @@ Make a `DoCapture` API call to PayPal.
 
 (The MIT License)
 
-Copyright (c) 2012 dreamerslab &lt;mason@dreamerslab.com&gt;
+Copyright (c) 2015 Dexus &lt;github@josef-froehle.de&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

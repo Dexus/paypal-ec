@@ -1,23 +1,23 @@
 {
-  "name"        : "paypal-ec",
-  "version"     : "0.2.7",
+  "name"        : "paypal-ec2",
+  "version"     : "0.3.0",
   "description" : "An API wrapper for PayPal's Express Checkout.",
   "keywords"    : [ "paypal", "express", "checkout", "payment" ],
-  "author"      : "dreamerslab <mason@dreamerslab.com>",
+  "author"      : "Josef Fröhle <github@josef-froehle.de>",
   "dependencies": {
   },
   "devDependencies": {
   },
   "repository": {
     "type": "git",
-    "url" : "https://github.com/dreamerslab/paypal-ec.git"
+    "url" : "https://github.com/Dexus/paypal-ec2.git"
   },
   "homepage": "",
-  "bugs"    : "https://github.com/dreamerslab/paypal-ec/issues",
+  "bugs"    : "https://github.com/Dexus/paypal-ec2/issues",
   "main"    : "index",
   "engines" : [ "node >= 0.6.0" ],
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/dreamerslab/paypal-ec/blob/master/Readme.md"
+    "url": "https://github.com/Dexus/paypal-ec2/blob/master/Readme.md"
   }]
 }
