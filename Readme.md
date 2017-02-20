@@ -1,5 +1,7 @@
 # paypal-ec <sup>0.3.0</sup>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Dexus/paypal-ec2.svg)](https://greenkeeper.io/)
+
 A simple API wrapper for PayPal's Express Checkout.
 
 
