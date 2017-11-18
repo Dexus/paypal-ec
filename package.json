@@ -1,6 +1,6 @@
 {
   "name"        : "paypal-ec2",
-  "version"     : "0.3.0",
+  "version"     : "0.3.1",
   "description" : "An API wrapper for PayPal's Express Checkout.",
   "keywords"    : [ "paypal", "express", "checkout", "payment" ],
   "author"      : "Josef Fröhle <github@josef-froehle.de>",
