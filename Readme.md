@@ -1,4 +1,4 @@
-# paypal-ec <sup>0.3.0</sup>
+# paypal-ec <sup>0.3.1</sup>
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/Dexus/paypal-ec2.svg)](https://greenkeeper.io/)
 
